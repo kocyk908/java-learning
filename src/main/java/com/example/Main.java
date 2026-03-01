@@ -2,7 +2,7 @@ package com.example;
 
 import java.util.Scanner;
 
-public class Main
+public class Main // plik i nazwa klasy takie same - najlepiej dużą literą
 {
     // może zawierać elementy typu: funkcje i dane
     public static void main(String[] args) // musi być, główna-podstawowa funkcja - wywołana przy uruchomieniu programu
